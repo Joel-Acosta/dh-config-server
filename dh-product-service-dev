@@ -1,4 +1,4 @@
 Server:
-  port: ${PORT:9997}
+  port: ${PORT:9998}
 
 message: Consumer configuration server is alive for DEV
